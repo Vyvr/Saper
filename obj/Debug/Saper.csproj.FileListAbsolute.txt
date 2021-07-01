@@ -1,0 +1,20 @@
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\bin\Debug\Saper.exe.config
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\bin\Debug\Saper.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\bin\Debug\Saper.pdb
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\obj\Debug\Saper.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\obj\Debug\Saper.pdb
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab5 - Saper\Saper\obj\Debug\Saper.FormSaper.resources
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\bin\Debug\Saper.exe.config
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\bin\Debug\Saper.exe
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\bin\Debug\Saper.pdb
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\obj\Debug\Saper.FormSaper.resources
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\obj\Debug\Saper.exe
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\5.Saper\Saper\obj\Debug\Saper.pdb
